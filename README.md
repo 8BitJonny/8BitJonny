@@ -5,10 +5,10 @@
 - 📫 How to reach me: timon.christiansen@code.berlin
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=8bitjonny&count_private=true&theme=dark&show_icons=true&icon_color=ffffff" title="8bitjonny's github stats" style="margin-right: 10px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=8bitjonny&count_private=true&show_icons=true" title="8bitjonny's github stats" style="margin-right: 10px">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8bitjonny&layout=compact&count_private=true&theme=dark&show_icons=true&icon_color=ffffff" title="8bitjonny's Top Langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8bitjonny&layout=compact&count_private=true&show_icons=true" title="8bitjonny's Top Langs">
 </a>
 <!--
 **8BitJonny/8BitJonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
