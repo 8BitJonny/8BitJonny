@@ -7,7 +7,7 @@
 ## Github Stats
 ![8BitJonny's Github Stats](https://github-readme-stats.vercel.app/api?username=8bitjonny&count_private=true&show_icons=true&title_color=25292e)
 
-## Currently listening to 🎶
+## Spotify Live View 🎶
 [![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/1164145877)
 
 ## Visitor Count
