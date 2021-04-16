@@ -19,7 +19,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
   <li> 💻 I'm currently working for <a href="https://joinblair.com">Blair</a> </li>
   <li> 🎓 Doing my Software Engineering Bachelor of Science at <a href="https://code.berlin">CODE University</a> </li>
   <li> ✨ My favorite side project is <a href="https://github.com/8BitJonny/BeatMix">BeatMix</a> </li>
-  <li> 🔭 My newest side project is <a href="https://timon.codes">my own portfolio</a> (stay tuned) </li>
+  <li> 🔭 My newest side project is <a href="https://timon.codes">my own portfolio</a> </li>
   <li> 📫 How to reach me: <a href="mailto: timon.christiansen@code.berlin">timon.christiansen@code.berlin</a> </li>
 </li>
 </ul>
@@ -58,26 +58,3 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/8BitJonny/count.svg)
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=8bitjonny&theme=dark&count_private=true&show_icons=true" title="8bitjonny's github stats" style="margin-right: 10px">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8bitjonny&layout=compact&count_private=true&show_icons=true&title_color=25292e" title="8bitjonny's Top Langs">
-</a>
--->
-
-<!--
-**8BitJonny/8BitJonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
