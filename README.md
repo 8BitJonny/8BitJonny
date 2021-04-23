@@ -28,7 +28,10 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <a href="https://open.spotify.com/user/1164145877"><img src="https://img.shields.io/badge/-@Timon%20Christiansen-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1164145877" alt="Spotify Badge"></a></p>
 
 ## Github Stats
-![8BitJonny's Github Stats](https://github-readme-stats.vercel.app/api?username=8bitjonny&theme=dark&count_private=true&show_icons=false)
+
+<img width="300" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg">
+<img width="620" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+
 
 <h2>👨🏻‍💻 Programming languages</h2>
 <p align="left">
