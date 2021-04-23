@@ -71,4 +71,6 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/8BitJonny/count.svg)
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/this_page_is_best_viewed_dark.gif?raw=true"  width="400"/>
+</p>
