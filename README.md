@@ -31,7 +31,6 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 
 <img width="276" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg"> <img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg">
 
-
 <h2>👨🏻‍💻 Programming languages</h2>
 <p align="left">
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -68,9 +67,12 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 ## Spotify Live View
 [![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/1164145877)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/this_page_is_best_viewed_dark.gif?raw=true"  width="400"/>
-</p>
-
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/8BitJonny/count.svg)
+
+##
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/page_is_best_viewed_dark.gif?raw=true"  width="400"/>
+</p>
+
