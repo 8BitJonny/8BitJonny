@@ -52,8 +52,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <a href="#"><img alt="Nuxt" src="https://img.shields.io/badge/Nuxt%20-%232F4931.svg?logo=nuxt.js&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue%20-%2335495E.svg?logo=vue.js&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?
-logo=github%20actions&logoColor=white"></a>
+<a href="#"><img alt="GitHub Actions"src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
