@@ -9,9 +9,10 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
        _\/\\\_______\/\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\____\///\\\\\/_____ 
         _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
 ```
+
+<img align="right" width="500" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <br/>
-<img align="right" width="420" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=30&width=395&lines=Timon+Christiansen;Full+stack+web+and+app+developer;Open+source+enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com/?center=true&color=016EEA&height=27&width=300&lines=Timon+Christiansen;Full+stack+Web/App+dev;Open+source+enthusiast" />
 <ul>
   <li> 💻 I'm currently working for <a href="https://joinblair.com">Blair</a> </li>
   <li> 🎓 Doing my Software Engineering Bachelor of Science at <a href="https://code.berlin">CODE University</a> </li>
@@ -21,9 +22,9 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 </li>
 </ul>
 
-<p><a href="https://www.linkedin.com/in/timonchristiansen/"><img src="https://img.shields.io/badge/-@timonchristiansen-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/timonchristiansen/" alt="LinkedIn Badge"></a>
-<a href="https://www.producthunt.com/@timon_christiansen/made"><img src="https://img.shields.io/badge/-@timonchristiansen-da552f?style=flat-square&amp;labelColor=fff&amp;logo=Product-Hunt&amp;link=https://www.producthunt.com/@timon_christiansen/made" alt="Product Hunt Badge"></a>
-<a href="https://open.spotify.com/user/1164145877"><img src="https://img.shields.io/badge/-@Timon%20Christiansen-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1164145877" alt="Spotify Badge"></a></p>
+<p><a href="https://www.linkedin.com/in/timonchristiansen/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/timonchristiansen/" alt="LinkedIn Badge"></a>
+<a href="https://www.producthunt.com/@timon_christiansen/made"><img src="https://img.shields.io/badge/-ProductHunt-da552f?style=flat-square&amp;labelColor=fff&amp;logo=Product-Hunt&amp;link=https://www.producthunt.com/@timon_christiansen/made" alt="Product Hunt Badge"></a>
+<a href="https://open.spotify.com/user/1164145877"><img src="https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1164145877" alt="Spotify Badge"></a></p>
 
 ## Github Stats
 
