@@ -13,7 +13,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 ```
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<img src="https://readme-typing-svg.herokuapp.com/?center=false&color=016EEA&size=25&height=40&width=300&lines=Timon+Christiansen;Full+stack+web+and+app+developer;Open+source+enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=30&width=395&lines=Timon+Christiansen;Full+stack+web+and+app+developer;Open+source+enthusiast" />
 <ul>
   <li> 💻 I'm currently working for <a href="https://joinblair.com">Blair</a> </li>
   <li> 🎓 Doing my Software Engineering Bachelor of Science at <a href="https://code.berlin">CODE University</a> </li>
