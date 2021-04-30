@@ -10,7 +10,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
         _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
 ```
 <br/>
-<img align="right" width="440" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" width="420" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=30&width=395&lines=Timon+Christiansen;Full+stack+web+and+app+developer;Open+source+enthusiast" />
 <ul>
   <li> 💻 I'm currently working for <a href="https://joinblair.com">Blair</a> </li>
