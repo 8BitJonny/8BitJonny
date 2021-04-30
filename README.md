@@ -12,7 +12,8 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 
 ```
 
-### Hi there 👋
+
+<img src="https://readme-typing-svg.herokuapp.com/?center=false&color=016EEA&width=800&lines=Timon+Christiansen;Full+stack+web+and+app+developer;Open+source+enthusiast" />
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <ul>
@@ -43,6 +44,5 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 ##
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/page_is_best_viewed_dark.gif?raw=true"  width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&color=016EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
 </p>
-
