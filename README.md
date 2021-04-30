@@ -12,8 +12,8 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 
 ```
 
-
-<img src="https://readme-typing-svg.herokuapp.com/?center=false&color=016EEA&height=29&width=800&lines=Timon+Christiansen;Full+stack+web+and+app+developer;Open+source+enthusiast" />
+<br>
+<img src="https://readme-typing-svg.herokuapp.com/?center=false&color=016EEA&size=25&height=40&width=800&lines=Timon+Christiansen;Full+stack+web+and+app+developer;Open+source+enthusiast" />
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <ul>
   <li> 💻 I'm currently working for <a href="https://joinblair.com">Blair</a> </li>
