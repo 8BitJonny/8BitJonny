@@ -24,7 +24,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 
 <p><a href="https://www.linkedin.com/in/timonchristiansen/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/timonchristiansen/" alt="LinkedIn Badge"></a>
 <a href="https://www.producthunt.com/@timon_christiansen/made"><img src="https://img.shields.io/badge/-ProductHunt-da552f?style=flat-square&amp;labelColor=fff&amp;logo=Product-Hunt&amp;link=https://www.producthunt.com/@timon_christiansen/made" alt="Product Hunt Badge"></a>
-<a href="https://open.spotify.com/user/1164145877"><img src="https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1164145877" alt="Spotify Badge"></a></p>
+<a href="https://github.com/8BitJonny/8BitJonny/actions"><img src="https://github.com/8BitJonny/8BitJonny/actions/workflows/main.yml/badge.svg" alt="Build Readme Status"></a></p>
 
 ## Github Stats
 
