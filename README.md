@@ -1,7 +1,10 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-![](https://github.com/8BitJonny/8BitJonny/blob/master/worksOnMyMachine.svg)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+<p align="center">
+  <img height="33.9px" src="https://forthebadge.com/images/badges/built-with-love.svg">
+  <img height="33.9px" src="https://github.com/8BitJonny/8BitJonny/blob/master/worksOnMyMachine.svg">
+  <img height="33.9px" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg">
+  <img height="33.9px" src="https://forthebadge.com/images/badges/makes-people-smile.svg">
+</p>
+
 ```
 __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/\\\\\______        
  _\/\\\_______\/\\\_\/\\\///////////__\/\\\_____________\/\\\_________________/\\\///\\\____       
