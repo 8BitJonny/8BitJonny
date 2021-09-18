@@ -15,7 +15,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Timon+Christiansen;Full+stack+Web/App+dev;Open+source+enthusiast" />
 <ul>
   <li> 💻 I'm currently working for <a href="https://joinblair.com">Blair</a> </li>
-  <li> 🎓 Doing my Software Engineering Bachelor of Science at <a href="https://code.berlin">CODE University</a> </li>
+  <li> 🎓 Software Engineering B.Sc. Graduate from <a href="https://code.berlin">CODE University</a> </li>
   <li> ✨ My favorite side project is <a href="https://github.com/8BitJonny/BeatMix">BeatMix</a> </li>
   <li> 🔭 My newest side project is <a href="https://timon.codes">my own portfolio</a> </li>
   <li> 📫 How to reach me: <a href="mailto: timon.christiansen@code.berlin">timon.christiansen@code.berlin</a> </li>
