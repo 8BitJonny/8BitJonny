@@ -14,11 +14,11 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Timon+Christiansen;Full+stack+Web/App+dev;Open+source+magician" />
 <ul>
-  <li> 💻 I'm currently working for <a href="https://joinblair.com">Blair</a> </li>
+  <li> 💻 I'm currently working for <a href="https://github.com/Hyrule-Technologies">Hyrule-Technologies</a> </li>
   <li> 🎓 Software Engineering B.Sc. Graduate from <a href="https://code.berlin">CODE University</a> </li>
   <li> ✨ My favorite side project is <a href="https://github.com/8BitJonny/BeatMix">BeatMix</a> </li>
-  <li> 🔭 My newest side project is <a href="https://timon.codes">my own portfolio</a> </li>
-  <li> 📫 How to reach me: <a href="mailto: timon.christiansen@code.berlin">timon.christiansen@code.berlin</a> </li>
+  <li> 🔭 My newest side project is currently still in stealth mode 🤫 </li>
+  <li> 📫 How to reach me: <a href="mailto: christiansen.timon@gmail.com">christiansen.timon@gmail.com</a> </li>
 </li>
 </ul>
 
