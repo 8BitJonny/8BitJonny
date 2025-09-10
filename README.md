@@ -14,7 +14,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Timon+Christiansen;Full+stack+Web/App+dev;Open+source+magician" />
 <ul>
-  <li> 💻 I'm currently working for <a href="https://github.com/Hyrule-Technologies">Hyrule-Technologies</a> </li>
+  <li> 💻 I'm currently working for <a href="https://github.com/super-chat">Superchat</a> </li>
   <li> 🎓 Software Engineering B.Sc. Graduate from <a href="https://code.berlin">CODE University</a> </li>
   <li> ✨ My favorite side project is <a href="https://github.com/8BitJonny/BeatMix">BeatMix</a> </li>
   <li> 🔭 My newest side project is currently still in stealth mode 🤫 </li>
@@ -28,9 +28,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 
 ## Github Stats
 
-<img width="276" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg"> <img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg">
-
-<img width="100%" src="https://github.com/8BitJonny/8BitJonny/raw/master/skills.svg">
+<img width="290" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg"> <img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg">
 
 ## Spotify Live View
 [![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/1164145877)
