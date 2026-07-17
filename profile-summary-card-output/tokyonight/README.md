@@ -15,16 +15,6 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/tokyonight/0-profile-details.svg)
-```
-
-    
-
----
-
 ![](./1-repos-per-language.svg)
 
 ```
@@ -39,26 +29,6 @@
 
 ```
 ![](https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/tokyonight/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/tokyonight/4-productive-time.svg)
 ```
 
     
