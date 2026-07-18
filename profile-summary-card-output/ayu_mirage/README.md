@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg)
-```
-
-    
